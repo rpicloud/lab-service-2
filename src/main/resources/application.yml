@@ -1,0 +1,10 @@
+configuration:
+  projectName: Service-2
+server:
+  port: 9002
+
+---
+spring:
+  profiles: development
+server:
+  port: 9002
